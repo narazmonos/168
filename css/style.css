@@ -117,7 +117,7 @@ header ul li a {
 }
 
 .top_img {
-  height: 100vh;
+  height: 80vh;
   width: 100%;
   -o-object-fit: cover;
      object-fit: cover;
@@ -427,7 +427,7 @@ SP
     top: 0;
     left: 0;
     width: 100%;
-    height: 46vh;
+    height: 46;
     background: rgba(255, 255, 255, 0.9);
     color: #2c2c2c;
     display: -webkit-box;
